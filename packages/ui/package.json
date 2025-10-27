@@ -1,0 +1,16 @@
+{
+  "name": "ui",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "concurrently": "^9.2.1",
+    "rimraf": "^6.0.1",
+    "tailwindcss": "^4.1.16",
+    "tsc-alias": "^1.8.16"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
